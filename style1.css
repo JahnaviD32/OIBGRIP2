@@ -1,0 +1,123 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(15, 16, 17);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: rgb(194, 231, 240);
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    box-shadow: 5px 5px rgb(80,80,80);
+    
+}
+ 
+#Short {
+        text-align: center;
+        font-size: 120%;
+        font-style: italic;
+        margin-top: 10px;
+        color: rgb(3, 11, 19);
+}
+
+
+
+.image{
+        margin-left: 115px;
+        margin-right: 155px;
+        margin-top: 35px;
+        width: 1000px;
+}
+.img{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 25px;
+        width: 400px;
+}
+div{
+        background-color: rgb(231, 229, 229);
+        margin-left: 50px;
+        margin-right: 50px;
+        border-radius: 30px 30px 30px 30px;
+        padding-bottom: 30px;
+        padding-left: 10px;
+        padding-right: 10px;
+}
+h2{
+       text-align: center;
+        font-size: 170%;
+        color: aliceblue;
+        padding-top: 5px;
+        margin-top: 15px;
+        padding-bottom: 5px;
+        
+    
+        
+}
+#paragraph{
+            padding-bottom: 0px;
+            margin-right: 500px;
+            margin-left: 500px;
+            margin-top: 50px;
+            
+            
+}
+#paragraph:hover{
+                    box-shadow: 5px 5px rgb(80,80,80);
+                   
+                    
+}
+
+
+#bio{
+        font-style: normal;
+        text-align: justify;
+        font-size: 150%;
+        color: azure;
+}
+a:link{
+        color: blue
+}
+a:hover{
+            color: rgb(60, 255, 0);
+}
+#achieve{
+            font-size: 200%;
+            color: rgb(14, 12, 12);
+            font-style:italic;
+            
+            
+            
+}
+
+#biograph{
+            font-size: 300%;
+            font-family: sans-serif;
+            font-style: normal;
+}
+
+li{
+       
+        margin-left: 50px;
+        font-style: oblique;
+        font-size: 150%;
+        font-weight: 700;
+}
+
+hr{
+    display: block;
+    border-width: medium;
+    border-color: black;
+    margin-top: 1px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+
+
+
+
+
